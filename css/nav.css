@@ -1,0 +1,15 @@
+.navbar{
+	height: 100px;
+	border:10px black solid;
+}
+.index{
+	float: left;
+}
+.button{
+	float: right;
+	margin-right: 10px;
+}
+
+.pervious_test{
+
+}
