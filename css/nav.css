@@ -1,8 +1,18 @@
+
 .footer{
 	background-color: gray;
 
 }
 .navbar{
 	background-color: orange;
+
+}
+
+
+.index{
+	font-size:36px;
+	font-family: 'Indie Flower', cursive;
+	/*padding-left: 0px;*/
+	/*border:1px solid black;*/
 
 }
